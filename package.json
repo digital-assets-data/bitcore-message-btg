@@ -23,7 +23,7 @@
     "url": "https://github.com/bitpay/bitcore-message.git"
   },
   "dependencies": {
-    "bitcore-lib": "satoshilabs/bitcore-lib#8e2caed768aa269b433a14981f0e36c0838a3d91"
+    "bitcore-lib": "digital-assets-data/bitcore-lib-btg"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
